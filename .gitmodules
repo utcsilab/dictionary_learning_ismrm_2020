@@ -1,0 +1,3 @@
+[submodule "mri-sim-py"]
+	path = mri-sim-py
+	url = git@github.com:utcsilab/mri-sim-py.git
