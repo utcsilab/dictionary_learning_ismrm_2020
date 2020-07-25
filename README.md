@@ -9,8 +9,8 @@ July 2020
 pip install -r requirements.txt
 ```
 ## Binder
-Launch in MyBinder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/utcsilab/dictionary_learning_ismrm_2020/master)  
-[Link]([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/utcsilab/dictionary_learning_ismrm_2020/master?filepath=Dictionary%20Learning%20Demo.ipynb))
+Launch in MyBinder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/utcsilab/dictionary_learning_ismrm_2020/master?filepath=Dictionary%20Learning%20Demo.ipynb)  
+[Link](https://mybinder.org/v2/gh/utcsilab/dictionary_learning_ismrm_2020/master?filepath=Dictionary%20Learning%20Demo.ipynb)
 
 ## Presentation slides
 [Slides](presentation.pdf)
