@@ -1,5 +1,5 @@
 numpy
--e git+git@github.com:mikgroup/sigpy@0918134e658b065c5d9a242b0a3986b389bf0a34#egg=sigpy
+-e git+https://github.com/mikgroup/sigpy@0918134e658b065c5d9a242b0a3986b389bf0a34#egg=sigpy
 matplotlib
 tqdm
 h5py
